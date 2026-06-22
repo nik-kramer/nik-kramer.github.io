@@ -14,7 +14,7 @@ redirect_from:
 
 <div style="height: 10px;"></div>
 
-<p style="text-align: justify">At Freie Universität Berlin, I am associated with the Center for Comparative and International Political Economy. I am also affiliated with the Potsdam Institute for Climate Impact Research, where I am part of the Political Economy research group. Before joining Freie Universität as a researcher, I studied international relations and political science in Dresden and Berlin. I also worked as a Research Assistant at the Potsdam Institute for Climate Impact Research, the Research Institute for Sustainability in Potsdam, and the Institute of Political Science at Dresden University of Technology.</p>
+<p style="text-align: justify">At Freie Universität Berlin, I am associated with the Center for Comparative and International Political Economy. I am also a Fellow at the Potsdam Institute for Climate Impact Research and member of their Political Economy research group. Before joining Freie Universität as a researcher, I studied international relations and political science in Dresden and Berlin. I also worked as a Research Assistant at the Potsdam Institute for Climate Impact Research, the Research Institute for Sustainability in Potsdam, and the Institute of Political Science at Dresden University of Technology.</p>
 
 <div style="height: 120px;"></div>
 
