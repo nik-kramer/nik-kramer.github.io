@@ -14,7 +14,7 @@ redirect_from:
 
 <div style="height: 10px;"></div>
 
-<p style="text-align: justify">At the Otto Suhr Institute, I am associated with the Center for Comparative and International Political Economy. I am also a Fellow at the <a href=https://www.pik-potsdam.de/en/home> Potsdam Institute for Climate Impact Research</a>. Before joining Freie Universität as a researcher, I studied international relations and political science in Dresden and Berlin. I also worked as a Research Assistant at the Potsdam Institute for Climate Impact Research, the <a href=https://www.rifs-potsdam.de/en> Research Institute for Sustainability</a> in Potsdam, and the Institute of Political Science at <a href=https://tu-dresden.de/gsw/phil/powi?set_language=en> Dresden University of Technology</a>.</p>
+<p style="text-align: justify">At the Otto Suhr Institute, I am associated with the Center for Comparative and International Political Economy. I am also a Fellow at the <a href="https://www.pik-potsdam.de/en/home"> Potsdam Institute for Climate Impact Research</a>. Before joining Freie Universität as a researcher, I studied international relations and political science in Dresden and Berlin. I also worked as a Research Assistant at the Potsdam Institute for Climate Impact Research, the <a href="https://www.rifs-potsdam.de/en"> Research Institute for Sustainability</a> in Potsdam, and the Institute of Political Science at <a href="https://tu-dresden.de/gsw/phil/powi?set_language=en"> Dresden University of Technology</a>.</p>
 
 <div style="height: 120px;"></div>
 
