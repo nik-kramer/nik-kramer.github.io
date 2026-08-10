@@ -5,6 +5,9 @@ type: "Undergraduate seminar"
 permalink: /teaching/TheoPol26
 venue: "Freie Universität Berlin, Otto Suhr Institute for Political Science"
 date: 2026-01-01
+dates:
+  - "winter term 2025/26"
+  - "2026/27"
 location: "City, Country"
 ---
 
