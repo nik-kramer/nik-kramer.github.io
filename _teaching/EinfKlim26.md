@@ -5,6 +5,8 @@ type: "Undergraduate seminar"
 permalink: /teaching/EinfKlim26
 venue: "Freie Universität Berlin, Otto Suhr Institute for Political Science"
 date: 2026-01-01
+dates:
+  - "summer term 2026"
 location: "City, Country"
 ---
 
