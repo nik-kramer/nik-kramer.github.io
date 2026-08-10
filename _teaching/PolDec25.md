@@ -6,8 +6,8 @@ permalink: /teaching/PolKlim25
 venue: "Freie Universität Berlin, Otto Suhr Institute for Political Science"
 date: 2025-01-01
 dates:
-  - "winter term 2025/26"
-  - "2026/27"
+  - "2025"
+  - "2026"
 location: "City, Country"
 ---
 
