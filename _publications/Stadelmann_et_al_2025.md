@@ -1,5 +1,5 @@
 ---
-title: "Reckless subjects, future capital? ‘Youth’ as an object of concern in international health organizations’ discourse"
+title: "Reckless Subjects, Future Capital? ‘Youth’ as an Object of Concern in International Health Organizations’ Discourse"
 collection: publications
 category: articles
 permalink: /publication/Stadelmann_et_al_2025
