@@ -9,7 +9,7 @@ redirect_from:
 
 <div style="height: 20px;"></div>
 
-<p style="text-align: justify">I am a Research Associate and PhD candidate at the Otto Suhr Institute for Political Science of <a href="https://www.polsoz.fu-berlin.de/en/polwiss/index.html"> Freie Universität Berlin</a>. I study the comparative and international politics of climate change. My current research focuses on political contestation of climate policy. I am also interested in broader questions around public policy and political economy. All of my research is problem-driven, which means that I apply a wide range of theories and methods. While most of it focuses on the German and European context, I have also studied climate and industrial policy in China, Brazil, and the United States. My research has been published in the <i>Journal of European Public Policy</i>, <i>Energy Policy</i>, <i>Foreign Policy Analysis</i>, and <i>Globalizations</i>.</p>
+<p style="text-align: justify">I am a Research Associate and PhD candidate at the Otto Suhr Institute for Political Science of <a href="https://www.polsoz.fu-berlin.de/en/polwiss/index.html"> Freie Universität Berlin</a>. I study the comparative and international politics of climate change. My current research focuses on political contestation of climate policy. I am also interested in broader questions around public policy and political economy. All of my research is problem-driven, which means that I apply a wide range of theories and methods. While most of it focuses on the German and European context, I have also studied climate and industrial policy in China, Brazil, and the United States.</p>
 
 
 <div style="height: 10px;"></div>
